@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayoutViewPagerFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sayfa1">sayfa1</string>
+    <string name="sayfa2">sayfa2</string>
+    <string name="sayfa3">sayfa3</string>
+</resources>
